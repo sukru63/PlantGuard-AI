@@ -1,0 +1,17 @@
+.venv/
+.venv_new/
+.venv*/
+.idea/
+__pycache__/
+*.pyc
+
+data/plantvillage/
+data/plantvillage_kaynak/
+
+outputs/*.pt
+outputs/*.pth
+outputs/*.h5
+
+.streamlit/secrets.toml
+.env
+.env.*
